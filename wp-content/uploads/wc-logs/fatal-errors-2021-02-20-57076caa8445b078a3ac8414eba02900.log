@@ -1,0 +1,6 @@
+2021-02-20T11:38:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 196608 bytes) in /home/onlineclassroom/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 312
+
+2021-02-20T14:08:19+00:00 CRITICAL Call to a member function get_id() on null in /home/onlineclassroom/public_html/wp-content/themes/twentytwenty/templates/template-order.php on line 13
+
+2021-02-20T17:22:41+00:00 CRITICAL Call to a member function get_id() on null in /home/onlineclassroom/public_html/wp-content/themes/twentytwenty/templates/template-order.php on line 13
+

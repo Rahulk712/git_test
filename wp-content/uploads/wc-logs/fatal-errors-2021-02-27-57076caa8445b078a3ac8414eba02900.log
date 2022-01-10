@@ -1,0 +1,2 @@
+2021-02-27T12:22:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 196608 bytes) in /home/onlineclassroom/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 312
+

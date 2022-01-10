@@ -1,0 +1,51 @@
+#zerobounce_result{
+	margin-top:20px; 
+	max-width: 500px; 
+    padding-left: 3px;
+} 
+#zerobounce_result ul li{
+	font-size: 15px;
+} 
+
+#zerobounce_result ul span:not(.text-red){
+	color:#039c03;
+	font-size: 16px;
+}
+
+#zerobounce_email_field{
+	width: 250px;
+}
+
+#zerobounce_credits{
+	font-size: 15px;
+}
+
+.text-red{
+	color: #ff0000;
+}
+
+.zerobounce_title{ 
+	background: #f0f9ff; 
+	background: -moz-linear-gradient(top, #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); 
+	background: -webkit-linear-gradient(top, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);  
+	background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 );  
+    color: #333333;
+    padding: 50px 0px 50px 0px;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 0 0 -20px;
+}
+
+.zerobounce_boxed{
+	padding: 2.785714em 2.785714em 2.785714em 0;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ececec;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.zerobounce_boxed ul{
+	margin: 0 auto;
+}

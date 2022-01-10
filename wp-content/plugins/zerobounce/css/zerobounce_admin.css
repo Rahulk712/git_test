@@ -1,0 +1,20 @@
+.text-red{
+	color: #ff0000;
+}
+ 
+.zerobounce_title{ 
+	background: #f0f9ff; 
+	background: -moz-linear-gradient(top, #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); 
+	background: -webkit-linear-gradient(top, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%);  
+	background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); 
+    color: #333333;
+    padding: 50px 0px 50px 0px;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 0 0 -20px;
+}
+ 
+.form-table th { 
+    width: 91px; 
+} 
