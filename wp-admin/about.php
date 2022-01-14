@@ -1,7 +1,7 @@
 <?php
 /**
  * About This Version administration panel.
- *
+ ##############################
  * @package WordPress
  * @subpackage Administration
  */
