@@ -1,3 +1,7 @@
+
+
+#############################################################
+
 <?php
 /**
  * Bootstrap file for setting the ABSPATH constant
